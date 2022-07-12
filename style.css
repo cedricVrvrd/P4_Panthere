@@ -18,6 +18,10 @@ img.center-block.image-resize-mode{
     height: 100px;
     width: 100px;
 }
+.navbar-brand img{
+    height: 40px;
+    width: 260px;
+}
 @media (max-width : 380px) {
     .tiret{
         display: none;
