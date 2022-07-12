@@ -1429,15 +1429,18 @@ figure {
 img {
     vertical-align: middle
 }
-
+img .center-block.image-rezide-mode{
+    width: 130px;
+    height: 130px;
+}
 .carousel-inner>.item>a>img,
 .carousel-inner>.item>img,
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
-    height: auto
+    /* max-width: 100%;
+    height: auto */
 }
 
 .img-rounded {
